@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RVApp</string>
+    <string name="play_button_description">Botón de reproducción</string>
+</resources>
